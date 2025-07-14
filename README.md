@@ -22,7 +22,6 @@ O objetivo do jogador é adivinhar a palavra correta com base na versão embaral
 
 ---
 
-## 📂 Estrutura Esperada
 
 
 
